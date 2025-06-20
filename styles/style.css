@@ -28,7 +28,7 @@ nav .nav-elements{
   text-decoration: none;
   color: aliceblue;
   display: block;
-  padding: 5px 10px;
+  padding: 20px 20px;
   transition: background-color .5s;
 }
 .nav-elements > li a:hover{
@@ -44,7 +44,7 @@ nav .nav-elements{
 }
 .dropdown > li{  
   display: block; 
-  padding: 5px 10px; 
+  padding: 20px; 
   color: aliceblue;
   transition: background-color .5s;
 }
@@ -56,4 +56,29 @@ nav .nav-elements{
 }
 section{
   margin: 10px;
+}
+.html{
+  display: flex;
+  background: #2F3362;
+  color: white;
+  padding: 10px;
+}
+.html img{
+  height: 8rem;
+  border-radius: 20px;
+  border: 5px solid white;
+  background-position: top;
+}
+.css{
+  display: flex;
+  background: #2F3362;
+  color: white;
+  margin-top: 20px;
+  padding: 10px;
+}
+.css img{
+  height: 8rem;
+  border-radius: 20px;
+  border: 5px solid white;
+  background-position: top;
 }
