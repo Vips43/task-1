@@ -82,3 +82,12 @@ section{
   border: 5px solid white;
   background-position: top;
 }
+h2{
+  text-align: center;
+  margin-top: 20px;
+}
+.web{
+  background-color: grey;
+  color: white;
+  text-align: left;
+}
